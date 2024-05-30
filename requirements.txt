@@ -1,0 +1,6 @@
+ultralytics
+streamlit
+matplotlib
+opencv-python
+numpy
+tqdm

@@ -7,7 +7,7 @@ To run this code, use the following command:
 streamlit run app.py
 ```
 
-## Install Required Library
+## Install Required Packages
 
 ```bash
 pip install -r requirements.txt
